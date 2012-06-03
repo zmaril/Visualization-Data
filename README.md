@@ -3,7 +3,7 @@
 This contains information that is generally useful for visualization
 purposes. It started off mainly by pulling data from d3.js's examples and
 then adding in general data as it was found. Below, are some comments
-on each data set. This is a sister project to the [d3.js-boilerplate]
+on each data set. This is a sister project to the [d3.js-boilerplate](https://github.com/zmaril/d3.js-boilerplate)
 in terms of scope and purpose. 
 
 ## World Boundaries
